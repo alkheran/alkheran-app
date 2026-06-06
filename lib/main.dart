@@ -23,3 +23,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+Initialize Flutter app with basic UI
